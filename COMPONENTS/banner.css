@@ -1,0 +1,17 @@
+.banner {
+    background-image: url(../IMAGES/PITCH.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.banner h1 {
+    color: rgb(10, 60, 10);
+    font-weight: bolder;
+    font-size: 60px;
+}
+.banner h2 {
+    color: white; 
+    font-size: 30px;
+    opacity: 0.8;
+}
+
+
